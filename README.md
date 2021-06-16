@@ -1,5 +1,7 @@
 ### 💻 Open Source Projects
 
+The below projects are still in development, collaboration and suggestions are welcomed. 😄
+
 #### 🌅 [Middleify](https://github.com/OliverHGray/middleify)
 
 Typed middleware for Express.
