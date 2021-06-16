@@ -1,4 +1,16 @@
-### Hi there 👋
+### 💻 Open Source Projects
+
+#### 🌅 [Middleify](https://github.com/OliverHGray/middleify)
+
+Typed middleware for Express.
+
+#### 🐹 [Slender Mongoose](https://github.com/OliverHGray/slender-mongoose)
+
+Simple schemas and type generation for Mongoose.
+
+#### 🥾 [Boot Chain](https://github.com/OliverHGray/boot-chain)
+
+Smoothly handle a staged application boot process.
 
 <!--
 **OliverHGray/OliverHGray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
