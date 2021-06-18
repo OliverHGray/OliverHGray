@@ -26,7 +26,7 @@ ACNH collectable tracker.
 
 #### <img src='https://albumreviewclub.com/favicon.png' height='16'> [Album Review Club](https://albumreviewclub.com/) (under development)
 
-Album review website & blog.
+Album review website and blog.
 
 #### <img src='https://app.arcengine.dev/images/rocket.png' height='16'> [ArcEngine](https://app.arcengine.dev/) (under development)
 
